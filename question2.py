@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 '''
-好未来笔试第二题
+好未来笔试第二题，2018,10,09
 '''
 l, r = [int(s) for s in input().split()]
 
